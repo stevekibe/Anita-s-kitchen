@@ -27,3 +27,25 @@
   background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/breakfast.jpg);
   color: white;
 }
+.meta:hover{
+  opacity: 0.5;
+  color: black;
+}
+.meta{
+  height: 200px;
+  width:350px;
+  text-align: center;
+  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/lunch.jpg);
+  color: white;
+}
+.murphy:hover{
+  opacity:0.5;
+  color: black;
+}
+.murphy{
+  height:200px;
+  width:350px;
+  text-align: center;
+  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/dinner.jpg);
+  color: white;
+}
