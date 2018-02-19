@@ -72,15 +72,7 @@
     padding-top: 60px;
     text-align:center;
 }
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
 
-}
 
 .sidekick .closebtn {
     position: absolute;
@@ -92,4 +84,7 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+.back{
+  background-image: url(../assets/backgrounds/landing.jpg);
 }
