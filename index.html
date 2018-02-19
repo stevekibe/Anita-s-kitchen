@@ -5,16 +5,26 @@
     <title>Anitas Kitchen</title>
       <link href="css/styles.css" type="text/css" rel="stylesheet">
       <link href="css/bootstrap.css" type="text/css" rel="stylesheet">
+      <script src="jss/jquery-3.3.1.js"></script>
+      <script src="jss/script.js"></script>
   </head>
   <body>
   <div class="container-fluid">
-     <div class="dexter">
-       <div class="text-center">
-       <img src="assets/logoBig.png" width="20%">
-       <h1><span class="honney">We provide food at the right place</span></h1>
-       <h2>At The<span class="anita"> Right Price</span></h2>
-        </div>
+   <div class="row">
+   <div class="jumbotron">
+     <div id="mySidenav" class="sidenav">
+       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+       <a href="#">Menu</a>
+       <a href="#">Events</a>
+       <a href="#">Contact</a>
      </div>
+     <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Open</span>
+     <div class="text-center">
+       <img src="assets/logoBig.png" alt="big-logo">
+       <p>We Provide The Best Food <br>At The Right Price</p>
+     </div>
+    </div>
+   </div>
      <div class="row">
        <div class="col-sm-3">
          <div class="row" id="happy">
@@ -22,7 +32,7 @@
       </div>
       <div class="row" id="party">
         <h6> Party Time</h6>
-       </div>
+      </div>
      </div>
        <div class="col-sm-3">
         <div class="meek">
