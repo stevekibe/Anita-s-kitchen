@@ -1,5 +1,6 @@
 .dexter{
   background-image: url(/home/steve/Desktop/anitas-kitchen/assets/backgrounds/landing.jpg);
+
 }
 .honney{
   text-align: center;
@@ -14,4 +15,15 @@
 }
 .safer{
   background-image: url(/home/steve/Desktop/anitas-kitchen/assets/backgrounds/foodsBg.jpg);
+}
+.meek:hover{
+  opacity: 0.5;
+  color: black;
+}
+.meek{
+  height: 200px;
+  width: 350px;
+  text-align: center;
+  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/breakfast.jpg);
+  color: white;
 }
