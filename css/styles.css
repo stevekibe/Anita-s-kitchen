@@ -24,7 +24,7 @@
   height: 200px;
   width: 350px;
   text-align: center;
-  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/breakfast.jpg);
+  background-image: url(assets/foodtop/breakfast.jpg);
   color: white;
 }
 .meta:hover{
@@ -35,7 +35,7 @@
   height: 200px;
   width:350px;
   text-align: center;
-  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/lunch.jpg);
+  background-image: url(assets/foodtop/lunch.jpg);
   color: white;
 }
 .murphy:hover{
@@ -46,6 +46,6 @@
   height:200px;
   width:350px;
   text-align: center;
-  background-image: url(/home/steve/Desktop/anitas-kitchen/assets/foodtop/dinner.jpg);
+  background-image: url(assets/foodtop/dinner.jpg);
   color: white;
 }
