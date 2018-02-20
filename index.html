@@ -11,7 +11,7 @@
   <body>
   <div class="container-fluid">
    <div class="row">
-   
+
      <div class="back">
      <div id="mySidenav" class="sidenav">
        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -22,7 +22,9 @@
      <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Open</span>
      <div class="text-center">
        <img src="assets/logoBig.png" alt="big-logo">
-       <p>We Provide The Best Food <br>At The Right Price</p>
+       <div class="prov">
+       <p><strong>We Provide The Best Food <br>At The Right Price</strong> </p>
+     </div>
      </div>
      </div>
 
@@ -134,7 +136,15 @@
                   <p><span class="rest">2016 Menu Restaurant</span></p>
               </div>
             </div>
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "100%";
+}
 
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+</script>
 
   </body>
 </html>
