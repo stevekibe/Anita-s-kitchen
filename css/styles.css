@@ -72,8 +72,6 @@
     padding-top: 60px;
     text-align:center;
 }
-
-
 .sidekick .closebtn {
     position: absolute;
     top: 0;
@@ -87,4 +85,11 @@
 }
 .back{
   background-image: url(../assets/backgrounds/landing.jpg);
+}
+.box{
+  background-color: black;
+  width:1000px;
+  border: 10px solid white;
+  padding:50px;
+  margin: 50px;
 }
