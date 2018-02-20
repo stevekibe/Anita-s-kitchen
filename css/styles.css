@@ -94,3 +94,7 @@
   margin: 50px;
 
 }
+.email {
+  background-image: url(../assets/backgrounds/subscribe.jpg);
+  color: white;
+}
