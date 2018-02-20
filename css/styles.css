@@ -86,10 +86,11 @@
 .back{
   background-image: url(../assets/backgrounds/landing.jpg);
 }
-.box{
-  background-color: black;
+.box1{
+  background-color: white;
   width:1000px;
-  border: 10px solid white;
+  border: 5px solid grey;
   padding:50px;
   margin: 50px;
+
 }
