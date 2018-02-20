@@ -22,7 +22,7 @@
 }
 .meek{
   height: 200px;
-  width: 350px;
+  width: 200px;
   text-align: center;
   background-image: url(../assets/foodtop/breakfast.jpg);
   color: white;
@@ -33,7 +33,7 @@
 }
 .meta{
   height: 200px;
-  width:350px;
+  width:200px;
   text-align: center;
   background-image: url(../assets/foodtop/lunch.jpg);
   color: white;
@@ -44,7 +44,7 @@
 }
 .murphy{
   height:200px;
-  width:350px;
+  width:200px;
   text-align: center;
   background-image: url(../assets/foodtop/dinner.jpg);
   color: white;
